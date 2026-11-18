@@ -6,7 +6,7 @@
 - 🔭 Latest project: **Hall Manager** — a hall management web app with login, dues tracking & printable receipts → Live: https://ptechallmanagement.netlify.app
 - 🌱 Currently exploring: JavaScript, React & Supabase
 - 🎬 I also create Bangla story videos as **Story Space**
-- 📫 Reach me: Instagram [@story.spaceee](https://instagram.com/story.spaceee)
+- 📫 Reach me: Instagram [@nafiz.xd](https://instagram.com/nafiz.xd)
 
 ## 🛠️ Skills & Tools
 C • HTML • CSS • JavaScript • Supabase • Netlify • Git • GitHub
