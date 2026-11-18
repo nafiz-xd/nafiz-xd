@@ -24,5 +24,11 @@ C • HTML • CSS • JavaScript • Supabase • Netlify • Git • GitHub
 | **Expense Tracker** | Track income & expenses with category breakdowns | [Live](https://nafiz-xd.github.io/expense-tracker/) · [Code](https://github.com/nafiz-xd/expense-tracker) |
 | **Weather App** | Live weather & 7-day forecast for any city (Open-Meteo) | [Live](https://nafiz-xd.github.io/weather-app/) · [Code](https://github.com/nafiz-xd/weather-app) |
 | **Quiz App** | Timed general-knowledge quiz with instant feedback & score | [Live](https://nafiz-xd.github.io/quiz-app/) · [Code](https://github.com/nafiz-xd/quiz-app) |
+| **Mess Meal Manager** | Mess/hostel meal & bazar cost tracker — automatic meal rate and per-person monthly bill split | [Live](https://nafiz-xd.github.io/mess-meal-manager/) · [Code](https://github.com/nafiz-xd/mess-meal-manager) |
+| **Bus Route Finder** | Dhaka bus routes — from/to search, full stop lists & estimated fares | [Live](https://nafiz-xd.github.io/bus-route-finder/) · [Code](https://github.com/nafiz-xd/bus-route-finder) |
+| **Study Timer** | Pomodoro focus timer with subject tracking, 7-day study chart & history | [Live](https://nafiz-xd.github.io/study-timer/) · [Code](https://github.com/nafiz-xd/study-timer) |
+| **Class Routine Maker** | Weekly class routine builder with today's classes highlighted & print view | [Live](https://nafiz-xd.github.io/class-routine-maker/) · [Code](https://github.com/nafiz-xd/class-routine-maker) |
+| **Typing Speed Test** | Bangla + English typing test with WPM, accuracy & best-score history | [Live](https://nafiz-xd.github.io/typing-speed-test/) · [Code](https://github.com/nafiz-xd/typing-speed-test) |
+| **Bangla Recipe Book** | Bangladeshi recipes with real photos, ingredient search & favorites | [Live](https://nafiz-xd.github.io/bangla-recipe-book/) · [Code](https://github.com/nafiz-xd/bangla-recipe-book) |
 
 ⭐ **Featured:** Hall Manager — built for a real user (my father, hall in-charge at Pabna Textile Engineering College) and used with real student data.
