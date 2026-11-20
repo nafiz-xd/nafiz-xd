@@ -39,6 +39,7 @@ C • HTML • CSS • JavaScript • Supabase • Netlify • Git • GitHub
 | **C Programming Practice** | My C learning hub — topics explained in Bangla, example programs & a practice checklist | [Live](https://nafiz-xd.github.io/c-programming-practice/) · [Code](https://github.com/nafiz-xd/c-programming-practice) |
 | **Blood Donor Finder** | Find blood donors by group & area with compatibility-aware search | [Live](https://nafiz-xd.github.io/blood-donor-finder/) · [Code](https://github.com/nafiz-xd/blood-donor-finder) |
 | **Prayer Time App** | Dhaka prayer times with next-prayer countdown & Hijri date | [Live](https://nafiz-xd.github.io/prayer-time-app/) · [Code](https://github.com/nafiz-xd/prayer-time-app) |
+| **Habit Tracker** | Daily habit tracker with streaks, XP levels, a weekly chart & a ready-to-run Supabase cloud-sync schema | [Live](https://nafiz-xd.github.io/habit-tracker/) · [Code](https://github.com/nafiz-xd/habit-tracker) |
 
 ⭐ **Featured:** Hall Manager — built for a real user (my father, hall in-charge at Pabna Textile Engineering College) and used with real student data.
 
