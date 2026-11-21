@@ -40,6 +40,12 @@ C • HTML • CSS • JavaScript • Supabase • Netlify • Git • GitHub
 | **Blood Donor Finder** | Find blood donors by group & area with compatibility-aware search | [Live](https://nafiz-xd.github.io/blood-donor-finder/) · [Code](https://github.com/nafiz-xd/blood-donor-finder) |
 | **Prayer Time App** | Dhaka prayer times with next-prayer countdown & Hijri date | [Live](https://nafiz-xd.github.io/prayer-time-app/) · [Code](https://github.com/nafiz-xd/prayer-time-app) |
 | **Habit Tracker** | Daily habit tracker with streaks, XP levels, a weekly chart & a ready-to-run Supabase cloud-sync schema | [Live](https://nafiz-xd.github.io/habit-tracker/) · [Code](https://github.com/nafiz-xd/habit-tracker) |
+| **Currency Converter BD** | Live currency converter to/from BDT with remittance mode, offline cached rates & a 7-day rate trend chart | [Live](https://nafiz-xd.github.io/currency-converter-bd/) · [Code](https://github.com/nafiz-xd/currency-converter-bd) |
+| **Photo ID Maker** | Passport & stamp-size photo maker — crop & zoom, exact 300-DPI sizes and a printable 4R photo sheet, fully in the browser | [Live](https://nafiz-xd.github.io/photo-id-maker/) · [Code](https://github.com/nafiz-xd/photo-id-maker) |
+| **QR Code Generator & Scanner** | Create QR codes for text, WiFi, bKash & vCard with saved history — and scan codes by camera or from an image | [Live](https://nafiz-xd.github.io/qr-code-generator/) · [Code](https://github.com/nafiz-xd/qr-code-generator) |
+| **Medication Reminder** | Medicine schedules with dose check-offs, stock tracking, low-stock alerts & a weekly adherence chart | [Live](https://nafiz-xd.github.io/medication-reminder/) · [Code](https://github.com/nafiz-xd/medication-reminder) |
+| **Freelance Invoice Maker** | Invoice builder with saved clients, BDT/USD totals, invoice history & a clean print/PDF invoice view | [Live](https://nafiz-xd.github.io/freelance-invoice-maker/) · [Code](https://github.com/nafiz-xd/freelance-invoice-maker) |
+| **Dhaka AQI Tracker** | Live Dhaka air-quality tracker — US AQI gauge, PM2.5/PM10 readings, hourly chart & 7-day history by area | [Live](https://nafiz-xd.github.io/dhaka-aqi-tracker/) · [Code](https://github.com/nafiz-xd/dhaka-aqi-tracker) |
 
 ⭐ **Featured:** Hall Manager — built for a real user (my father, hall in-charge at Pabna Textile Engineering College) and used with real student data.
 
