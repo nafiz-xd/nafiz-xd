@@ -46,6 +46,11 @@ C • HTML • CSS • JavaScript • Supabase • Netlify • Git • GitHub
 | **Medication Reminder** | Medicine schedules with dose check-offs, stock tracking, low-stock alerts & a weekly adherence chart | [Live](https://nafiz-xd.github.io/medication-reminder/) · [Code](https://github.com/nafiz-xd/medication-reminder) |
 | **Freelance Invoice Maker** | Invoice builder with saved clients, BDT/USD totals, invoice history & a clean print/PDF invoice view | [Live](https://nafiz-xd.github.io/freelance-invoice-maker/) · [Code](https://github.com/nafiz-xd/freelance-invoice-maker) |
 | **Dhaka AQI Tracker** | Live Dhaka air-quality tracker — US AQI gauge, PM2.5/PM10 readings, hourly chart & 7-day history by area | [Live](https://nafiz-xd.github.io/dhaka-aqi-tracker/) · [Code](https://github.com/nafiz-xd/dhaka-aqi-tracker) |
+| **Gold Price BD** | Bangladesh gold price calculator — 22/21/18 karat, bhori-gram-ana conversion, making charge + VAT, real BAJUS price-history chart | [Live](https://nafiz-xd.github.io/gold-price-bd/) · [Code](https://github.com/nafiz-xd/gold-price-bd) |
+| **FD & DPS Calculator BD** | Bank FD/DPS calculator — real Bangladeshi bank rates, maturity values, monthly growth chart & bank comparison | [Live](https://nafiz-xd.github.io/fd-dps-calculator-bd/) · [Code](https://github.com/nafiz-xd/fd-dps-calculator-bd) |
+| **Bangla Flashcard Maker** | Flashcard study app — build your own decks, quiz mode with wrong-card recurrence & progress charts | [Live](https://nafiz-xd.github.io/bangla-flashcard-maker/) · [Code](https://github.com/nafiz-xd/bangla-flashcard-maker) |
+| **Calorie Counter BD** | Bangla food calorie counter — deshi food database with real photos, daily log & goal vs actual chart | [Live](https://nafiz-xd.github.io/calorie-counter-bd/) · [Code](https://github.com/nafiz-xd/calorie-counter-bd) |
+| **Bus Fare Calculator BD** | Bus fare calculator — real BRTA per-km rates, student half fare, city + inter-district fares | [Live](https://nafiz-xd.github.io/bus-fare-calculator-bd/) · [Code](https://github.com/nafiz-xd/bus-fare-calculator-bd) |
 
 ⭐ **Featured:** Hall Manager — built for a real user (my father, hall in-charge at Pabna Textile Engineering College) and used with real student data.
 
