@@ -48,6 +48,12 @@ Hi, I'm Nafiz Bin Azad<br>CSE Student at Southeast University (SEU), Dhaka<br>�
 | **Bangla Flashcard Maker** | Flashcard study app — build your own decks, quiz mode with wrong-card recurrence & progress charts | [Live](https://nafiz-xd.github.io/bangla-flashcard-maker/) · [Code](https://github.com/nafiz-xd/bangla-flashcard-maker) |
 | **Calorie Counter BD** | Bangla food calorie counter — deshi food database with real photos, daily log & goal vs actual chart | [Live](https://nafiz-xd.github.io/calorie-counter-bd/) · [Code](https://github.com/nafiz-xd/calorie-counter-bd) |
 | **Bus Fare Calculator BD** | Bus fare calculator — real BRTA per-km rates, student half fare, city + inter-district fares | [Live](https://nafiz-xd.github.io/bus-fare-calculator-bd/) · [Code](https://github.com/nafiz-xd/bus-fare-calculator-bd) |
+| **Quran Reader BD** | All 114 surahs with Arabic text + Bengali translation, bookmarks, reading progress & juz navigation | [Live](https://nafiz-xd.github.io/quran-reader-bd/) · [Code](https://github.com/nafiz-xd/quran-reader-bd) |
+| **Cricket Score BD** | Bangladesh cricket hub — fixtures, results, player stats & WTC points table | [Live](https://nafiz-xd.github.io/cricket-score-bd/) · [Code](https://github.com/nafiz-xd/cricket-score-bd) |
+| **Freelance Rate Calculator** | Hourly & project rate from income, expenses & billable hours, with live BDT/USD conversion | [Live](https://nafiz-xd.github.io/freelance-rate-calculator/) · [Code](https://github.com/nafiz-xd/freelance-rate-calculator) |
+| **Emergency Numbers BD** | Verified emergency numbers for Bangladesh — 999, police, fire, ambulance & hospitals with one-tap call | [Live](https://nafiz-xd.github.io/emergency-numbers-bd/) · [Code](https://github.com/nafiz-xd/emergency-numbers-bd) |
+| **Street Food Finder BD** | Dhaka street food spots with real photos, area & price filters, ratings & Google Maps links | [Live](https://nafiz-xd.github.io/street-food-finder-bd/) · [Code](https://github.com/nafiz-xd/street-food-finder-bd) |
+| **Bangla Font Converter** | Bijoy ↔ Unicode Bangla converter with live preview, copy button & quick phrases | [Live](https://nafiz-xd.github.io/bangla-font-converter/) · [Code](https://github.com/nafiz-xd/bangla-font-converter) |
 
 ⭐ **Featured:** Hall Manager — built for a real user (my father, hall in-charge at Pabna Textile Engineering College) and used with real student data.
 
